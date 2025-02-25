@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  arun:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-02-25T11:13:50.358489854Z"
+    description: A Helm chart for Kubernetes
+    digest: f043ec3ec08784a442ced00038f94ad63d7ff5d0a26aabd0f2ed9c1638ccf145
+    name: arun
+    type: application
+    urls:
+    - arun-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-25T11:13:50.35797701Z"
